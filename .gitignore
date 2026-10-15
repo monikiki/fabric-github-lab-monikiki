@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Editor / temp
+*.swp
+*~
+.vscode/
+.idea/
+
+# Local env
+.env
+*.local
+.github/student.local.md
